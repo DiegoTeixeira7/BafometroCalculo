@@ -1,4 +1,4 @@
-# :beer: BafometroCalculo v1.0
+# :beer: Bafômetro Cálculo v1.0
 O Bafômetro (ou etilômetro) é um aparelho que permite determinar a
 concentração de bebida alcóolica no organismo de uma pessoa analisando o ar
 exalado dos pulmões. Este equipamento é utilizado por policiais para verificar o nível
